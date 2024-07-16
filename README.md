@@ -1,2 +1,3 @@
-# python-2024
-just small random python lessons I am working while relearning 
+# Python 2024
+
+Just small random python lessons I am working while relearning the language.
